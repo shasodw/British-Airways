@@ -9,7 +9,7 @@
         "hentai": false,
         "troll": false,
         "levelling" : true,
-        "lavalink" : false,
+        "lavalink" : true,
         "economy" : true,
         "application" : true,
         "birthday" : false,
@@ -23,7 +23,7 @@
         "utility": true,
         "moderation": true,
         "core" :true,
-        "lavalink": false,
+        "lavalink": true,
         "fun": true,
         "distube": true,
         "setups": true
